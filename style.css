@@ -1,0 +1,23 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 80px;
+    font-weight: bold;
+}
+.first-name-highlight{
+    color: #363958;
+}
+.second-name-highlight{
+    color: tomato;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
